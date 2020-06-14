@@ -1,5 +1,5 @@
 {
-  "name": "lambda-api",
+  "name": "@everdune/lambda-api",
   "version": "0.10.6",
   "description": "Lightweight web framework for your serverless applications",
   "main": "index.js",
